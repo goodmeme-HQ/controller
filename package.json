@@ -1,0 +1,26 @@
+{
+  "name": "goodmeme-controller",
+  "version": "0.1.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goodmeme-HQ/controller.git"
+  },
+  "dependencies": {
+    "goodmeme-gm": "^0.0.1",
+    "@btc-200k/btc-200k-js-tokens": "^0.0.1",
+    "@btc-200k/js-tokens": "^1.0.1",
+    "btc-200k-react": "^0.1.0",
+    "btc-200k-travel-api":"^0.1.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.20.1"
+  }
+}
